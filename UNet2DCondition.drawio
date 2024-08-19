@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="F6ROneN29MLaOiMp2rLe">
-    <mxGraphModel dx="1035" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1321" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,6 +372,9 @@
         </mxCell>
         <mxCell id="oLcVQ7vI1s9lOzuIZ2co-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Positional Encoding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="KAt6Ccv-T031N1p47GYT-32">
           <mxGeometry x="35" y="95" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oLcVQ7vI1s9lOzuIZ2co-21" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Dropout&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KAt6Ccv-T031N1p47GYT-32">
+          <mxGeometry x="470" y="95" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oLcVQ7vI1s9lOzuIZ2co-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="oLcVQ7vI1s9lOzuIZ2co-1">
           <mxGeometry relative="1" as="geometry">
