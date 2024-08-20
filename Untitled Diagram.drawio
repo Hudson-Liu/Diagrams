@@ -383,7 +383,7 @@
           <mxGeometry x="473.45" y="479.25" width="140.1" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KS5pkOdqRiE4XEHTQRBU-7" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b&gt;Cooling Rate ( x 10&lt;sup&gt;5&lt;/sup&gt; K/s)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="350" y="382" width="140.1" height="30" as="geometry" />
+          <mxGeometry x="350" y="390" width="140.1" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
